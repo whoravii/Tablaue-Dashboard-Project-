@@ -5,7 +5,7 @@ i also shared a screenshot if the tablaue file does not open
 
 QUESTIONS /KPIs
 
-•	Overall profit by product category
+*	Overall profit by product category
 •	Top 10 least profitable items
 •	Profitability by geographic region (state)
 •	Profit trend over time (quarterly)
